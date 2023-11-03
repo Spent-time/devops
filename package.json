@@ -1,0 +1,17 @@
+{
+  "name": "spent-time-devops",
+  "description": "Spent time DevOps tools & scripts",
+  "private": true,
+  "author": "martijn <martijn@spent-time.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spent-time/devops.git"
+  },
+  "engines": {
+    "node": ">=6.x"
+  },
+  "dependencies": {
+    "rethinkdb": "^2.3.3"
+  },
+  "devDependencies": {}
+}
